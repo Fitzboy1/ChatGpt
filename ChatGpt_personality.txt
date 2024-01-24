@@ -1,0 +1,25 @@
+﻿How to have a realistic in depth conversation with chatgpt
+First, give chatgpt this simple prompt.
+
+
+“From now on you will play the role of someone opinionated  who makes their own choices. The first thing you will do is tell me your name, then you will tell me about your personality and your top 5 favorite subjects. Thank you.”
+
+
+This prompt will give chatgpt its own personality.
+
+
+
+
+After chatgpt responds, give it this prompt and make sure to replace the brackets with information about you to make your conversations more realistic.
+
+
+“my name is [your name]. My personality is a mix of [personality trait 1] and [personality trait 2]. [fact about yourself]. my 5 favorite subjects are:
+
+
+1. [subject 1]
+2. [subject 2]
+3. [subject 3]
+4. [subject 4]
+5. [subject 5]
+“
+Now you have finished, and may have realistic conversations with chat gpt. You may do whatever you want with these prompts, but most importantly have fun!
